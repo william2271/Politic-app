@@ -1,0 +1,12 @@
+@font-face{
+  font-family: 'Product Sans';
+  src: url('../Fonts/Product\ Sans\ Regular.ttf');
+}
+.ProductSans{
+    font-family: 'Product Sans', sans-serif;
+}
+.cardText{
+        padding: 0px;
+        margin: 0px;
+
+}
